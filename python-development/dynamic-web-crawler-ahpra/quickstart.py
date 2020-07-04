@@ -10,7 +10,7 @@ from numpy.random import randint
 import timeit
 
 seed(1)
-FILE = 'D:\\approved_nurses.csv'
+FILE = '[CHANGE TO YOUR FILE LOCATION]'
 URL = 'https://www.ahpra.gov.au/Registration/Registers-of-Practitioners.aspx'
 
 
